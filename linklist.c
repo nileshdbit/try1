@@ -9,7 +9,7 @@ struct node {
    struct node *next;
 };
 
-
+//this is main method
 main() {
    insertFirst(1,10);
    insertFirst(2,20);
